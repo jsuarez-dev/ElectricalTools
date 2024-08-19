@@ -1,0 +1,15 @@
+Name,Designation,Power(kw),I(A),V
+Fan 1,Fan-1,3,2,415V/3P
+Fan 2,Fan-2,15,10,415V/3P
+Fan 3,Fan-3,1,1,240V/1P
+Fan 4,Fan-4,3,2,240V/1P
+Fan 5,Fan-5,3,2,415V/3P
+CU-1,CU-1,n/e,20,240V/1P
+CU-2,CU-2,n/e,20,415V/3P
+CU-3,CU-3,n/e,30,240V/1P
+AC-1,AC-1,n/e,0.5,240V/1P
+AC-2,AC-2,n/e,0.5,240V/1P
+AC-3,AC-3,n/e,0.5,240V/1P
+AC-4,AC-4,n/e,0.5,240V/1P
+AC-5,AC-5,n/e,0.5,240V/1P
+AC-6,AC-6,n/e,0.5,240V/1P
